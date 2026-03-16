@@ -13,3 +13,6 @@ Tecnologias que estudo
 <img align="center" alt="Python" height="40" width="40" 
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"> 
 
+   
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEU
+USUARIO&show_icons=true&theme=tokyonight)   
